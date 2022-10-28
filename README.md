@@ -2,6 +2,7 @@
 在这，我会记录下我学习WebRTC时看到的觉得还不错的一些资料，让跟我一样在学WebRTC的人少走弯路。
 
 ## 音频相关
+ * [音频编码原理 - Audio/Speech coding principle](https://github.com/gnolizuh/webrtc-tutorial/blob/main/%E9%9F%B3%E9%A2%91%E7%BC%96%E7%A0%81%E5%8E%9F%E7%90%86%E5%85%A5%E9%97%A8.pdf)
  * [心理声学模型 - Psycho acoustic model](https://blog.csdn.net/Jianing_Wang/article/details/105779558)
  * [采样定理 - Nyquist-Shannon sampling theorem](https://www.zhihu.com/question/24490634)
  * [音频编码分帧 - Audio framing](https://www.zhihu.com/question/52093104)
