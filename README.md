@@ -23,8 +23,11 @@
  * [傅立叶变换 - Fourier transform](https://charlesliuyx.github.io/2018/02/18/%E3%80%90%E7%9B%B4%E8%A7%82%E8%AF%A6%E8%A7%A3%E3%80%91%E8%AE%A9%E4%BD%A0%E6%B0%B8%E8%BF%9C%E5%BF%98%E4%B8%8D%E4%BA%86%E7%9A%84%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E8%A7%A3%E6%9E%90/)
  * [滤波器组 - Filter bank](https://www.electrical4u.com/filter-bank/)
 
-#### 2.1.3.2 Acoustic Echo Canceler (AEC)
+#### 2.1.3.2 NetEQ
+ * [NetEQ](https://github.com/mobinsheng/books/blob/master/WebRTC%E8%AF%AD%E9%9F%B3%E5%BC%95%E6%93%8E%E4%B8%ADNetEQ%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6_%E5%90%B4%E6%B1%9F%E9%94%90.pdf)
 
-#### 2.1.3.3 Noise Reduction (NR)
+#### 2.1.3.3 Acoustic Echo Canceler (AEC)
+
+#### 2.1.3.4 Noise Reduction (NR)
 
 ### 2.1.4 VideoEngine
