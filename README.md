@@ -30,8 +30,12 @@
 #### 2.1.3.2 NetEQ
  * [NetEQ](https://github.com/mobinsheng/books/blob/master/WebRTC%E8%AF%AD%E9%9F%B3%E5%BC%95%E6%93%8E%E4%B8%ADNetEQ%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6_%E5%90%B4%E6%B1%9F%E9%94%90.pdf)
 
-#### 2.1.3.3 Acoustic Echo Canceler (AEC)
+#### 2.1.3.3 Automatic Gain Control (AGC)
+ * [AGC原理解析](https://juejin.cn/post/7121554621700505636)
+ * [Software Implementation of Automatic Gain Controller for Speech Signal](https://www.ti.com/lit/wp/spraal1/spraal1.pdf?ts=1668410969756&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
-#### 2.1.3.4 Noise Reduction (NR)
+#### 2.1.3.4 Acoustic Echo Canceler (AEC)
+
+#### 2.1.3.5 Noise Reduction (NR)
 
 ### 2.1.4 VideoEngine
