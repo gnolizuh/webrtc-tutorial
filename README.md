@@ -32,7 +32,7 @@
  * [变时不变调 - Time-Scale Modification of Music Signals/WSOLA](https://mdpi-res.com/d_attachment/applsci/applsci-06-00057/article_deploy/applsci-06-00057-v2.pdf?version=1458229514)
 
 #### 2.1.3.2 NetEQ
- * [NetEQ](https://github.com/mobinsheng/books/blob/master/WebRTC%E8%AF%AD%E9%9F%B3%E5%BC%95%E6%93%8E%E4%B8%ADNetEQ%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6_%E5%90%B4%E6%B1%9F%E9%94%90.pdf)
+ * [WebRTC语音引擎中NetEQ技术的研究](https://github.com/mobinsheng/books/blob/master/WebRTC%E8%AF%AD%E9%9F%B3%E5%BC%95%E6%93%8E%E4%B8%ADNetEQ%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6_%E5%90%B4%E6%B1%9F%E9%94%90.pdf)
 
 #### 2.1.3.3 Automatic Gain Control (AGC)
  * [AGC原理解析](https://juejin.cn/post/7121554621700505636)
