@@ -8,6 +8,10 @@
 
 ### 2.1.1 Transport/Session
 
+#### Video Jitter Buffer
+ * [视频流抖动计算](https://www.cnblogs.com/ishen/p/15000909.html)
+ * [从贝叶斯到卡尔曼滤波](https://www.cnblogs.com/ishen/p/14987878.html)
+
 ### 2.1.2 NAT/STUN/TURN/ICE
  * [ICE-STUN-TURN brief introduce](https://webrtc.mthli.com/basic/ice-stun-turn/)
  * [What is the STUN Protocol? - STUN](https://www.3cx.com/blog/voip-howto/stun/)
@@ -35,6 +39,7 @@
  * [Software Implementation of Automatic Gain Controller for Speech Signal](https://www.ti.com/lit/wp/spraal1/spraal1.pdf?ts=1668410969756&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
 #### 2.1.3.4 Acoustic Echo Canceler (AEC)
+ * [Research on Adaptive Acoustic Echo Cancellation Algorithm in Digital Hearing Aids](https://aip.scitation.org/doi/pdf/10.1063/1.4992990)
 
 #### 2.1.3.5 Noise Reduction (NR)
 
