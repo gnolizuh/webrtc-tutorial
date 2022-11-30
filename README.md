@@ -49,3 +49,5 @@
 
 #### 2.1.5.1 Google Congestion Control
  * [GCC for WebRTC](https://c3lab.poliba.it/images/6/65/Gcc-analysis.pdf)
+ * [draft-alvestrand-rtcweb-congestion-01](https://www.ietf.org/archive/id/draft-alvestrand-rtcweb-congestion-01.html)
+ * [draft-ietf-rmcat-gcc-02](https://datatracker.ietf.org/doc/html/draft-ietf-rmcat-gcc-02)
