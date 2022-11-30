@@ -44,3 +44,8 @@
 #### 2.1.3.5 Noise Reduction (NR)
 
 ### 2.1.4 VideoEngine
+
+### 2.1.5 QoS
+
+#### 2.1.5.1 Google Congestion Control
+ * [GCC for WebRTC](https://c3lab.poliba.it/images/6/65/Gcc-analysis.pdf)
